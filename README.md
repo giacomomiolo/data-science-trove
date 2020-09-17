@@ -30,6 +30,7 @@
 - [x] 🎬 [3B1B Neural Networks Series](https://www.youtube.com/watch?v=aircAruvnKk)
 
 ## Certifications
-- [X] 📜 [TensorFlow Developer Certificate](https://www.credential.net/44299ff6-dc0d-4529-9b42-b9697bf34e1c)
-- [X] 📜 [Writing Efficient Pandas]
-- [X] 📜 [Writing Efficient Python]
+- [X] 📜 [Google - TensorFlow Developer Certificate](https://www.credential.net/44299ff6-dc0d-4529-9b42-b9697bf34e1c)
+- [X] 📜 [DataCamp - Writing Efficient Pandas](https://www.datacamp.com/statement-of-accomplishment/course/c4db8be1219a95d9a312bccbd42b63a7072e8435)
+- [X] 📜 [DataCamp - Writing Efficient Python](https://www.datacamp.com/statement-of-accomplishment/course/0e577a7054db1445eeaf50ab5fbfea6e4c40ec1c)
+- [X] 📜 [IBM - Python for Data Science](https://courses.cognitiveclass.ai/certificates/da72274985c14c32bafc72ec08e0655f)
